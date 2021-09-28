@@ -17,5 +17,7 @@ public class GItTest {
         System.out.println("gitee test2!");
 
         System.out.println("second test");
+
+        System.out.println("third test");
     }
 }
