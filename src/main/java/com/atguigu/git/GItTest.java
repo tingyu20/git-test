@@ -19,5 +19,6 @@ public class GItTest {
         System.out.println("second test");
 
         System.out.println("third test");
+        System.out.println("hot fix test");
     }
 }
